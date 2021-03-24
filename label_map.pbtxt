@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'badger'
+}
+
+item {
+    id: 2
+    name: 'cheongseolmo'
+}
+
+item {
+    id: 3
+    name: 'egret'
+}
+
+item {
+    id: 4
+    name: 'elk'
+}
+
+item {
+    id: 5
+    name: 'magpie'
+}
+
+item {
+    id: 6
+    name: 'pheasant'
+}
+
+item {
+    id: 7
+    name: 'pigeon'
+}
