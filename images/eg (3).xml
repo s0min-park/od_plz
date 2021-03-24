@@ -1,0 +1,26 @@
+<annotation>
+	<folder>egret</folder>
+	<filename>eg (3)</filename>
+	<path>D:\urban_ecosys\0324data\egret\000003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ergret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>6</ymin>
+			<xmax>67</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

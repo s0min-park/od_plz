@@ -1,0 +1,26 @@
+<annotation>
+	<folder>badger</folder>
+	<filename>ba (15)</filename>
+	<path>D:\urban_ecosys\0324data\badger\000015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>badger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>66</ymin>
+			<xmax>318</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

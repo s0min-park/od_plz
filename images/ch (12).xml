@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheongseolmo</folder>
+	<filename>ch (12)</filename>
+	<path>D:\urban_ecosys\0324data\cheongseolmo\000012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chungseolmo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>32</ymin>
+			<xmax>537</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
