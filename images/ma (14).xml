@@ -1,0 +1,26 @@
+<annotation>
+	<folder>magpie</folder>
+	<filename>ma (14)</filename>
+	<path>D:\urban_ecosys\0324data\magpie\000014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magpie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>243</ymin>
+			<xmax>587</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

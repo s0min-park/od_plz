@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pigeon</folder>
+	<filename>pi (5)</filename>
+	<path>D:\urban_ecosys\0324data\pigeon\000005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pheasant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>83</ymin>
+			<xmax>584</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pheasant</folder>
+	<filename>ph (12)</filename>
+	<path>D:\urban_ecosys\0324data\pheasant\000012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>820</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pheasant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>209</ymin>
+			<xmax>852</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>
